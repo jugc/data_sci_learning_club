@@ -1,2 +1,5 @@
 # Datasets folders
 /datasets
+
+# ipython checkpoints
+/.ipynb_checkpoints
