@@ -2,4 +2,4 @@
 /datasets
 
 # ipython checkpoints
-/01/.ipynb_checkpoints
+/0*/.ipynb_checkpoints
